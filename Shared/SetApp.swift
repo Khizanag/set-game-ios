@@ -15,6 +15,3 @@ struct SetApp: App {
         }
     }
 }
-
-// TODO: As the game play progresses, try to keep all the cards visible and as large as possible
-
